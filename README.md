@@ -1,0 +1,2 @@
+# LNJS
+learning nextjs
